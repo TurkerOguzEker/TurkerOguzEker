@@ -1,4 +1,4 @@
-[![MasterHead](https://ar.gen.tr/wp-content/uploads/2021/08/Dunyada-En-Cok-Kullanilan-Programlama-Dilleri.png)
+![MasterHead](https://ar.gen.tr/wp-content/uploads/2021/08/Dunyada-En-Cok-Kullanilan-Programlama-Dilleri.png)
 <h1 align="center">Hi 👋, I'm Türker Oğuz Eker</h1>
 <h3 align="center">Software Devoloper from Turkiye</h3>
 
